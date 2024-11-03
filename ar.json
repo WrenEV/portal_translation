@@ -125,5 +125,17 @@
   "connector_id": "معرّف الموصل",
   "charge_point_id": "معرّف نقطة الشحن",
   "group_id": "معرّف المجموعة",
-  "user_id": "معرّف المستخدم"
+  "user_id": "معرّف المستخدم",
+  "confirm_deletion": "تأكيد الحذف",
+  "are_you_sure_you_want_to_delete_this_site": "هل أنت متأكد من أنك تريد حذف هذا الموقع؟",
+  "site_deleted_successfully": "تم حذف الموقع بنجاح",
+  "failed_to_delete_site": "فشل في حذف الموقع",
+  "delete": "حذف",
+  "the_site_name_should_not_be_empty": "يجب ألا يكون اسم الموقع فارغًا",
+  "the_address_should_not_be_empty": "يجب ألا تكون العنوان فارغًا",
+  "coordinates_should_not_be_empty": "يجب ألا تكون الإحداثيات فارغة",
+  "group_name_should_not_be_empty": "يجب ألا يكون اسم المجموعة فارغًا",
+  "site_edited_successfully": "تم تعديل الموقع بنجاح",
+  "site_added_successfully": "تم إضافة الموقع بنجاح",
+  "failed_to_save_site": "فشل في حفظ الموقع"
 }

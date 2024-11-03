@@ -110,5 +110,20 @@
   "edit_site": "تحرير الموقع",
   "my_location": "موقعي",
   "change_map": "تغيير الخريطة",
-  "update": "تحديث"
+  "update": "تحديث",
+  "group": "المجموعة",
+  "connectors": "الموصلات",
+  "vendor": "المورد",
+  "site": "الموقع",
+  "date_paid": "تاريخ الدفع",
+  "date_start": "تاريخ البدء",
+  "date_finish": "تاريخ الانتهاء",
+  "date_authorized": "تاريخ التفويض",
+  "owner_id": "معرّف المالك",
+  "site_id": "معرّف الموقع",
+  "session_id": "معرّف الجلسة",
+  "connector_id": "معرّف الموصل",
+  "charge_point_id": "معرّف نقطة الشحن",
+  "group_id": "معرّف المجموعة",
+  "user_id": "معرّف المستخدم"
 }

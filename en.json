@@ -112,5 +112,20 @@
   "edit_site": "Edit Site",
   "my_location": "My Location",
   "change_map": "Change Map",
-  "update": "Update"
+  "update": "Update",
+  "group": "Group",
+  "connectors": "Connectors",
+  "vendor": "Vendor",
+  "site": "Site",
+  "date_paid": "Date Paid",
+  "date_start": "Date Start",
+  "date_finish": "Date Finish",
+  "date_authorized": "Date Authorized",
+  "owner_id": "Owner ID",
+  "site_id": "Site ID",
+  "session_id": "Session ID",
+  "connector_id": "Connector ID",
+  "charge_point_id": "Charge Point ID",
+  "group_id": "Group ID",
+  "user_id": "User ID"
 }

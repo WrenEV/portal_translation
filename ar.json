@@ -96,6 +96,19 @@
   "reset_password": "إعادة تعيين كلمة المرور",
   "reset_instructions": "أدخل عنوان بريدك الإلكتروني وسنرسل لك تعليمات إعادة تعيين كلمة المرور.",
   "most_common_reports": "التقارير الأكثر شيوعًا",
-  "already_have_account?": null,
-  "forgot_password": null
+  "connected": "متصل",
+  "max_power": "أقصى قدرة",
+  "model": "النموذج",
+  "owner": "المالك",
+  "error_code": "رمز الخطأ",
+  "meter_value": "قيمة العداد",
+  "amount_type": "نوع الكمية",
+  "consumption_planned": "الاستهلاك المخطط",
+  "duration": "المدة",
+  "other_data": "بيانات أخرى",
+  "select_columns_to_export": "اختر الأعمدة للتصدير",
+  "edit_site": "تحرير الموقع",
+  "my_location": "موقعي",
+  "change_map": "تغيير الخريطة",
+  "update": "تحديث"
 }

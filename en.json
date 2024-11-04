@@ -75,7 +75,7 @@
   "coordinates": "Coordinates",
   "select_amenities": "Select Amenities",
   "vat_number": "VAT Number",
-  "group_information": "Group Information ",
+  "group_information ": "Group Information ",
   "add_schedule": "Add Schedule",
   "public_price_group": "Public Price Group",
   "member_price_group": "Member Price Group",
@@ -232,5 +232,9 @@
   "delete_charge_point": "Delete Charge Point",
   "edit_charge_point": "Edit Charge Point",
   "are_you_sure_you_want_to_delete_this_charge_point": "Are you sure you want to delete this charge point?",
-  "charge_point_deleted_successfully": "Charge Point deleted successfully"
+  "charge_point_deleted_successfully": "Charge Point deleted successfully",
+  "no_group_selected": "No group selected",
+  "recent_activity": "Recent activity",
+  "no_recent_activity_recorded": "No recent activity recorded",
+  "source": "Source"
 }

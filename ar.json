@@ -230,5 +230,9 @@
   "delete_charge_point": "حذف نقطة الشحن",
   "edit_charge_point": "تعديل نقطة الشحن",
   "are_you_sure_you_want_to_delete_this_charge_point": "هل أنت متأكد من أنك تريد حذف نقطة الشحن هذه؟",
-  "charge_point_deleted_successfully": "تم حذف نقطة الشحن بنجاح"
+  "charge_point_deleted_successfully": "تم حذف نقطة الشحن بنجاح",
+  "no_group_selected": "لم يتم اختيار أي مجموعة",
+  "recent_activity": "النشاطات الأخيرة",
+  "no_recent_activity_recorded": "لا توجد أنشطة أخيرة مسجلة",
+  "source": "المصدر"
 }

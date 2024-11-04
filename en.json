@@ -315,5 +315,8 @@
   "wrong_email": "Wrong Email?",
   "verify_email": "Verify Email",
   "otp_resent": "OTP Resent",
-  "resend_code": "Resend Code"
+  "resend_code": "Resend Code",
+  "withdrawal_request_sent_successfully": "Withdrawal request sent successfully",
+  "failed_to_send_withdrawal_request": "Failed to send withdrawal request",
+  "withdrawal_confirmation_message": "WrenEV team will contact you to withdraw your money.\nAre you sure you want to withdraw?"
 }

@@ -313,5 +313,8 @@
   "wrong_email": "البريد الإلكتروني غير صحيح؟",
   "verify_email": "تحقق من البريد الإلكتروني",
   "otp_resent": "تم إعادة إرسال الرمز",
-  "resend_code": "إعادة إرسال الرمز"
+  "resend_code": "إعادة إرسال الرمز",
+  "withdrawal_request_sent_successfully": "تم إرسال طلب السحب بنجاح",
+  "failed_to_send_withdrawal_request": "فشل في إرسال طلب السحب",
+  "withdrawal_confirmation_message": "سيتواصل فريق WrenEV معك لسحب أموالك.\nهل أنت متأكد أنك تريد السحب؟"
 }

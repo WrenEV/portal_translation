@@ -426,5 +426,6 @@
   "unlock_success": "Successfully unlocked",
   "unlock_failure": "Failed to unlock",
   "change_availability_success": "Successfully changed availability to {status}",
-  "change_availability_failure": "Failed to change availability"
+  "change_availability_failure": "Failed to change availability",
+  "language": "Language"
 }

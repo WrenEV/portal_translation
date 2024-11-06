@@ -424,5 +424,6 @@
   "unlock_success": "تم الفتح بنجاح",
   "unlock_failure": "فشل في الفتح",
   "change_availability_success": "تم تغيير التوافر بنجاح إلى {status}",
-  "change_availability_failure": "فشل في تغيير التوافر"
+  "change_availability_failure": "فشل في تغيير التوافر",
+  "language": "اللغة"
 }

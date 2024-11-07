@@ -427,5 +427,18 @@
   "unlock_failure": "Failed to unlock",
   "change_availability_success": "Successfully changed availability to {status}",
   "change_availability_failure": "Failed to change availability",
-  "language": "Language"
+  "language": "Language",
+  "graph": "Graph",
+  "priceGroupDeletion": "Price Group Deletion",
+  "thisPriceGroupIsAssignedToTheFollowingMembers": "This Price Group is assigned to the following members:",
+  "thisPriceGroupIsAssignedToTheFollowingConnectors": "This Price Group is assigned to the following connectors:",
+  "noteTheseAssignmentsWillRevert": "Note: These assignments will revert to the Default Price Group upon deletion.",
+  "failedToDeletePriceGroup": "Failed to delete price group.",
+  "priceGroupDeletedSuccessfully": "Price group deleted successfully.",
+  "errorOccurredWhileDeleting": "An error occurred while deleting the price group:",
+  "editConnectorsAssignment": "Edit Connectors Assignment",
+  "editMembersAssignment": "Edit Members Assignment",
+  "editPriceGroup": "Edit Price Group",
+  "deletePriceGroup": "Delete Price Group",
+  "appliedTo": "Applied to"
 }

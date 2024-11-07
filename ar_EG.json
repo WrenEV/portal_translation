@@ -425,5 +425,18 @@
   "unlock_failure": "فشل في الفتح",
   "change_availability_success": "تم تغيير التوافر بنجاح إلى {status}",
   "change_availability_failure": "فشل في تغيير التوافر",
-  "language": "اللغة"
+  "language": "اللغة",
+  "graph": "رسم بياني",
+  "priceGroupDeletion": "حذف مجموعة الأسعار",
+  "thisPriceGroupIsAssignedToTheFollowingMembers": "تم تعيين مجموعة الأسعار هذه للأعضاء التاليين:",
+  "thisPriceGroupIsAssignedToTheFollowingConnectors": "تم تعيين مجموعة الأسعار هذه للموصلات التالية:",
+  "noteTheseAssignmentsWillRevert": "ملاحظة: ستعود هذه التعيينات إلى مجموعة الأسعار الافتراضية عند الحذف.",
+  "failedToDeletePriceGroup": "فشل في حذف مجموعة الأسعار.",
+  "priceGroupDeletedSuccessfully": "تم حذف مجموعة الأسعار بنجاح.",
+  "errorOccurredWhileDeleting": "حدث خطأ أثناء حذف مجموعة الأسعار:",
+  "editConnectorsAssignment": "تعديل تعيين الموصلات",
+  "editMembersAssignment": "تعديل تعيين الأعضاء",
+  "editPriceGroup": "تعديل مجموعة الأسعار",
+  "deletePriceGroup": "حذف مجموعة الأسعار",
+  "appliedTo": "مُطبق على"
 }

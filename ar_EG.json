@@ -439,4 +439,16 @@
   "editPriceGroup": "تعديل مجموعة الأسعار",
   "deletePriceGroup": "حذف مجموعة الأسعار",
   "appliedTo": "مُطبق على"
+  "price_group_deletion": "حذف مجموعة الأسعار",
+  "this_price_group_is_assigned_to_the_following_members": "تم تعيين مجموعة الأسعار هذه للأعضاء التاليين:",
+  "this_price_group_is_assigned_to_the_following_connectors": "تم تعيين مجموعة الأسعار هذه للموصلات التالية:",
+  "note_these_assignments_will_revert": "ملاحظة: ستعود هذه التعيينات إلى مجموعة الأسعار الافتراضية عند الحذف.",
+  "failed_to_delete_price_group": "فشل في حذف مجموعة الأسعار.",
+  "price_group_deleted_successfully": "تم حذف مجموعة الأسعار بنجاح.",
+  "error_occurred_while_deleting": "حدث خطأ أثناء حذف مجموعة الأسعار:",
+  "edit_connectors_assignment": "تعديل تعيين الموصلات",
+  "edit_members_assignment": "تعديل تعيين الأعضاء",
+  "edit_price_group": "تعديل مجموعة الأسعار",
+  "delete_price_group": "حذف مجموعة الأسعار",
+  "applied_to": "مُطبق على"
 }

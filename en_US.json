@@ -84,7 +84,8 @@
   "charge_keys": "Charge Keys ",
   "id": "Id",
   "charge_key": "Charge Key",
-  "total": "Total ",
+  "charge_key_name": "Charge Key Name",
+  "total": "Total",
   "co2_saved": "CO2 Saved",
   "company": "Company ",
   "top_performing_groups": "Top Performing Groups",
@@ -440,5 +441,6 @@
   "edit_members_assignment": "Edit Members Assignment",
   "edit_price_group": "Edit Price Group",
   "delete_price_group": "Delete Price Group",
-  "applied_to": "Applied to"
+  "applied_to": "Applied to",
+  "charge_key_length_condition": "8, 14, or 20 characters long"
 }

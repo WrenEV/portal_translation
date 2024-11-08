@@ -440,5 +440,6 @@
   "edit_price_group": "تعديل مجموعة الأسعار",
   "delete_price_group": "حذف مجموعة الأسعار",
   "applied_to": "مُطبق على",
-  "charge_key_length_condition": "8 أو 14 أو 20 حرفًا"
+  "charge_key_length_condition": "8 أو 14 أو 20 حرفًا",
+  "arabic": "العربية"
 }

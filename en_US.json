@@ -442,5 +442,6 @@
   "edit_price_group": "Edit Price Group",
   "delete_price_group": "Delete Price Group",
   "applied_to": "Applied to",
-  "charge_key_length_condition": "8, 14, or 20 characters long"
+  "charge_key_length_condition": "8, 14, or 20 characters long",
+  "arabic": "العربية"
 }

@@ -442,5 +442,7 @@
   "applied_to": "مُطبق على",
   "charge_key_length_condition": "8 أو 14 أو 20 حرفًا",
   "arabic": "العربية",
-  "sign_up_for_an_account": "سجّل للحصول على حساب"
+  "sign_up_for_an_account": "سجّل للحصول على حساب",
+  "pricing": "التسعير",
+  "estimated_revenue": "الإيرادات المتوقعة"
 }

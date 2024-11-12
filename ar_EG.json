@@ -445,5 +445,14 @@
   "sign_up_for_an_account": "سجّل للحصول على حساب",
   "transactions": "العائدات",
   "estimated_revenue": "الإيرادات المتوقعة",
-  "user_name": "اسم المستخدم"
+  "user_name": "اسم المستخدم",
+  "member_request": "طلب العضو",
+  "would_you_like_to_accept_or_reject": "هل ترغب في قبول أو رفض هذا الطلب؟",
+  "accept": "قبول",
+  "member_accepted": "تم قبول العضو",
+  "member_rejected": "تم رفض العضو",
+  "accept_member": "قبول العضو",
+  "reject_member": "رفض العضو",
+  "are_you_sure_you_want_to_accept": "هل أنت متأكد أنك تريد قبول هذا العضو؟",
+  "are_you_sure_you_want_to_reject": "هل أنت متأكد أنك تريد رفض هذا العضو؟"
 }

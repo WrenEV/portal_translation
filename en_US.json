@@ -447,5 +447,14 @@
   "sign_up_for_an_account": "Sign up for an account",
   "transactions": "Transactions",
   "estimated_revenue": "Estimated Revenue",
-  "user_name": "User Name"
+  "user_name": "User Name",
+  "member_request": "Member Request",
+  "would_you_like_to_accept_or_reject": "Would you like to accept or reject this request?",
+  "accept": "Accept",
+  "member_accepted": "Member accepted",
+  "member_rejected": "Member rejected",
+  "accept_member": "Accept Member",
+  "reject_member": "Reject Member",
+  "are_you_sure_you_want_to_accept": "Are you sure you want to accept this member?",
+  "are_you_sure_you_want_to_reject": "Are you sure you want to reject this member?"
 }

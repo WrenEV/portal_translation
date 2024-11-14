@@ -471,5 +471,20 @@
   "url":"الرابط",
   "add_links_to_your_website,_blog,_or_social_media_profiles":"أضف روابط إلى موقع الويب الخاص بك، أو مدونة، أو ملفاتك الشخصية على وسائل التواصل الاجتماعي",
   "update_company":"تحديث الشركة",
-  "edit_company":"تعديل الشركة"
+  "edit_company":"تعديل الشركة",
+  "enable_users_join_without_approval": "تمكين المستخدمين من الانضمام إلى المجموعة باستخدام رمز المجموعة بدون موافقتك",
+  "auto_accept_join_requests": "قبول الطلبات تلقائيًا",
+  "group_invite_code": "رمز دعوة المجموعة",
+  "code_copied_to_clipboard": "تم نسخ الرمز إلى الحافظة!",
+  "delete_confirmation_message": "هل أنت متأكد أنك تريد حذف هذا الرمز؟",
+  "code_deleted_successfully": "تم حذف الرمز بنجاح",
+  "failed_to_delete_code": "فشل في حذف الرمز",
+  "group_code_updated_successfully": "تم تحديث رمز المجموعة بنجاح",
+  "failed_to_update_group_code": "فشل في تحديث رمز المجموعة",
+  "choose_price_group": "اختر مجموعة الأسعار",
+  "team_invitation_settings": "إعدادات دعوة الفريق",
+  "add_code": "إضافة رمز",
+  "invite_to_group": "دعوة إلى المجموعة!",
+  "enable_feature_description": "قم بتمكين هذه الميزة لإنشاء رمز مجموعة فريد. شارك هذا الرمز مع العملاء للسماح لهم بالانضمام إلى مجموعتك مباشرة من التطبيق.",
+  "enable": "تمكين"
 }

@@ -473,5 +473,20 @@
   "url":"URL",
   "add_links_to_your_website,_blog,_or_social_media_profiles":"Add links to your website, blog, or social media profiles",
   "update_company":"Update Company",
-  "edit_company":"Edit Company"
+  "edit_company":"Edit Company",
+  "enable_users_join_without_approval": "Enable users to join the group using the group code without your approval",
+  "auto_accept_join_requests": "Auto accept join requests",
+  "group_invite_code": "Group Invite Code",
+  "code_copied_to_clipboard": "Code copied to clipboard!",
+  "delete_confirmation_message": "Are you sure you want to delete this code?",
+  "code_deleted_successfully": "Code deleted successfully",
+  "failed_to_delete_code": "Failed to delete code",
+  "group_code_updated_successfully": "Group code updated successfully",
+  "failed_to_update_group_code": "Failed to update group code",
+  "choose_price_group": "Choose the Price Group",
+  "team_invitation_settings": "Team Invitation Settings",
+  "add_code": "Add Code",
+  "invite_to_group": "Invite to the Group!",
+  "enable_feature_description": "Enable this feature to generate a unique group code. Share this code with customers to allow them to join your group directly from the mobile app.",
+  "enable": "Enable"
 }

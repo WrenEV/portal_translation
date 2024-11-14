@@ -488,5 +488,12 @@
   "add_code": "Add Code",
   "invite_to_group": "Invite to the Group!",
   "enable_feature_description": "Enable this feature to generate a unique group code. Share this code with customers to allow them to join your group directly from the mobile app.",
-  "enable": "Enable"
+  "enable": "Enable",
+  "disable_system": "Disable System",
+  "enable_system": "Enable System",
+  "disable": "Disable",
+  "disable_invitation": "Disable Invitation System",
+  "enable_invitation": "Enable Invitation System",
+  "disable_invitation_warning": "Users will no longer be able to join using a group code if you disable this system.",
+  "enable_invitation_message": "Users can join the group by using the invitation code."
 }

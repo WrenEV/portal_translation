@@ -496,5 +496,6 @@
   "enable_invitation": "Enable Invitation System",
   "disable_invitation_warning": "Users will no longer be able to join using a group code if you disable this system.",
   "enable_invitation_message": "Users can join the group by using the invitation code.",
-  "invitation": "Invitation"
+  "invitation": "Invitation",
+   "fields_should_not_be_empty": "Fields should not be empty"
 }

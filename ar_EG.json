@@ -474,7 +474,12 @@
   "edit_company": "تعديل الشركة",
   "enable_users_join_without_approval": "تمكين المستخدمين من الانضمام إلى المجموعة باستخدام رمز المجموعة بدون موافقتك",
   "auto_accept_join_requests": "قبول الطلبات تلقائيًا",
+  "add_new_group_code": "إضافة رمز مجموعة جديد",
+  "auto_Accept": "قبول تلقائي",
   "group_invite_code": "رمز دعوة المجموعة",
+  "group_selection_required": "اختيار المجموعة مطلوب.",
+  "select_price_group": "يرجى اختيار مجموعة الأسعار.",
+  "submit_code_success": "تم إنشاء الرمز بنجاح.",
   "code_copied_to_clipboard": "تم نسخ الرمز إلى الحافظة!",
   "delete_confirmation_message": "هل أنت متأكد أنك تريد حذف هذا الرمز؟",
   "code_deleted_successfully": "تم حذف الرمز بنجاح",
@@ -495,5 +500,7 @@
   "disable_invitation_warning": "لن يتمكن المستخدمون من الانضمام باستخدام رمز المجموعة إذا قمت بتعطيل هذا النظام.",
   "enable_invitation_message": "يمكن للمستخدمين الانضمام إلى المجموعة باستخدام رمز الدعوة.",
   "invitation": "دعوة",
-  "fields_should_not_be_empty": "يجب ألا تكون الحقول فارغة"
+  "fields_should_not_be_empty": "يجب ألا تكون الحقول فارغة",
+  "charge_point_name": "اسم نقطة الشحن",
+  "user_email": "البريد الإلكتروني للمستخدم"
 }

@@ -504,5 +504,12 @@
   "invitation": "Invitation",
   "fields_should_not_be_empty": "Fields should not be empty",
   "charge_point_name": "Charge Point Name",
-  "user_email": "User Email"
+  "user_email": "User Email",
+  "notify_users": "Notify Users",
+  "users_will_be_notified_about_the_charge_point_updates": "Users will be notified about the charge point updates",
+  "users_wont_be_notified_about_charge_point_updates": "Users wont be notified about Charge point updates",
+  "true": "True",
+  "false": "False",
+  "yes": "Yes",
+  "no": "No"
 }

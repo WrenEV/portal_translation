@@ -511,5 +511,6 @@
   "true": "True",
   "false": "False",
   "yes": "Yes",
-  "no": "No"
+  "no": "No",
+  "analytics": "Analytics"
 }

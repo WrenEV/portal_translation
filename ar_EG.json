@@ -522,5 +522,25 @@
   "sep": "سبتمبر",
   "oct": "أكتوبر",
   "nov": "نوفمبر",
-  "dec": "ديسمبر"
+  "dec": "ديسمبر",
+  "session_type_distribution": "توزيع نوع الجلسة",
+  "ac_percentage": "تيار متردد: {percentage}%",
+  "dc_percentage": "تيار مستمر: {percentage}%",
+  "station_return_frequencies": "ترددات العودة إلى المحطات",
+  "no_data_available": "لا توجد بيانات متاحة",
+  "popular_charging_times": "أوقات الشحن الشائعة",
+  "fetching_popular_time": "جارٍ جلب الوقت الشائع...",
+  "charging_levels": "مستويات الشحن",
+  "error_message": "خطأ: {message}",
+  "days": [
+    "الإثنين",
+    "الثلاثاء",
+    "الأربعاء",
+    "الخميس",
+    "الجمعة",
+    "السبت",
+    "الأحد"
+  ],
+  "site_revenue": "إيرادات الموقع",
+  "charge_point_revenue": "إيرادات نقطة الشحن"
 }

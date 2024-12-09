@@ -512,5 +512,17 @@
   "false": "False",
   "yes": "Yes",
   "no": "No",
-  "analytics": "Analytics"
+  "analytics": "Analytics",
+  "jan": "Jan",
+  "feb": "Feb",
+  "mar": "Mar",
+  "apr": "Apr",
+  "may": "May",
+  "jun": "Jun",
+  "jul": "Jul",
+  "aug": "Aug",
+  "sep": "Sep",
+  "oct": "Oct",
+  "nov": "Nov",
+  "dec": "Dec"
 }

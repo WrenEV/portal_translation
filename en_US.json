@@ -524,5 +524,26 @@
   "sep": "Sep",
   "oct": "Oct",
   "nov": "Nov",
-  "dec": "Dec"
+  "dec": "Dec",
+  "session_type_distribution": "Session Type Distribution",
+  "ac_percentage": "AC: {percentage}%",
+  "dc_percentage": "DC: {percentage}%",
+  "station_return_frequencies": "Station Return Frequencies",
+  "no_data_available": "No data available",
+  "popular_charging_times": "Popular charging times",
+  "fetching_popular_time": "Fetching popular time...",
+  "charging_levels": "Charging Levels",
+  "error_message": "Error: {message}",
+  "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "site_revenue": "Site Revenue",
+  "charge_point_revenue": "Charge Point Revenue"
 }
+

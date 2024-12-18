@@ -548,7 +548,8 @@
   "average_session_time_energy_consumption": "Average Session Time and Energy Consumption",
   "avg_session_time": "Avg. Session Time (min)",
   "avg_energy_consumption": "Avg. Energy Consumption (kWh)",
-  "already_notified": "Already Notified"
+  "already_notified": "Already Notified",
+  "no_consumption_data_availabe": "No consumption data available"
   
 }
 

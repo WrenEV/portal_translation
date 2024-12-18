@@ -546,6 +546,6 @@
    "average_session_time_energy_consumption": "متوسط وقت الجلسة واستهلاك الطاقة",
   "avg_session_time": "متوسط وقت الجلسة (دقائق)",
   "avg_energy_consumption": "متوسط استهلاك الطاقة (كيلوواط ساعة)",
-  "already_notified": "تم الإعلام بالفعل"
-
+  "already_notified": "تم الإعلام بالفعل",
+  "no_consumption_data_availabe": "لا توجد بيانات استهلاك متاحة"
 }

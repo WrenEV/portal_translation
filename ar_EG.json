@@ -548,6 +548,9 @@
   "avg_energy_consumption": "متوسط استهلاك الطاقة (كيلوواط ساعة)",
   "already_notified": "تم الإعلام بالفعل",
   "no_consumption_data_availabe": "لا توجد بيانات استهلاك متاحة",
-  "no_available_currency": "لا توجد عملة متاحة"
+  "no_available_currency": "لا توجد عملة متاحة",
+  "export": "تصدير",
+  "export_failed": "فشل التصدير",
+  "export_successful": "تم التصدير بنجاح! تم حفظ الملف في المستندات."
 
 }

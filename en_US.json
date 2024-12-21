@@ -550,7 +550,10 @@
   "avg_energy_consumption": "Avg. Energy Consumption (kWh)",
   "already_notified": "Already Notified",
   "no_consumption_data_availabe": "No consumption data available",
-  "no_available_currency": "No available currency"
+  "no_available_currency": "No available currency",
+  "export": "Export",
+  "export_failed": "Export failed",
+  "export_successful": "Export successful! File saved to documents."
   
 }
 

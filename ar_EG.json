@@ -551,6 +551,10 @@
   "no_available_currency": "لا توجد عملة متاحة",
   "export": "تصدير",
   "export_failed": "فشل التصدير",
-  "export_successful": "تم التصدير بنجاح! تم حفظ الملف في المستندات."
+  "export_successful": "تم التصدير بنجاح! تم حفظ الملف في المستندات.",
+   "schedule_added_successfully": "تمت إضافة الجدول بنجاح",
+  "failed_to_add_schedule": "فشل في إضافة الجدول",
+  "generate_jordan_schedule": "إنشاء جدول الأردن"
+  
 
 }

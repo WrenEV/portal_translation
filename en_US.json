@@ -556,7 +556,9 @@
   "export_successful": "Export successful! File saved to documents.",
    "schedule_added_successfully": "Schedule added successfully",
   "failed_to_add_schedule": "Failed to add schedule",
-  "generate_jordan_schedule": "Generate Jordan Schedule"
+  "generate_jordan_schedule": "Generate Jordan Schedule",
+   "battery_percentage": "Battery Percentage"
+  
   
 }
 

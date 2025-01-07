@@ -552,10 +552,10 @@
   "export": "تصدير",
   "export_failed": "فشل التصدير",
   "export_successful": "تم التصدير بنجاح! تم حفظ الملف في المستندات.",
-   "schedule_added_successfully": "تمت إضافة الجدول بنجاح",
+  "schedule_added_successfully": "تمت إضافة الجدول بنجاح",
   "failed_to_add_schedule": "فشل في إضافة الجدول",
   "generate_jordan_schedule": "إنشاء جدول الأردن",
-   "battery_percentage": "نسبة البطارية"
-  
+  "battery_percentage": "نسبة البطارية",
+  "save": "حفظ"
 
 }

@@ -556,6 +556,10 @@
   "failed_to_add_schedule": "فشل في إضافة الجدول",
   "generate_jordan_schedule": "إنشاء جدول الأردن",
   "battery_percentage": "نسبة البطارية",
-  "save": "حفظ"
-
+  "save": "حفظ",
+  "shift": "الوردية",
+  "working_shifts": "ورديات العمل",
+  "morning_shift": "الوردية الصباحية",
+  "night_shift": "الوردية الليلية",
+  "select_shift_type": "اختر نوع الوردية"
 }

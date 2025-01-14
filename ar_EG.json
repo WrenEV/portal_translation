@@ -561,5 +561,6 @@
   "working_shifts": "ورديات العمل",
   "morning_shift": "الوردية الصباحية",
   "night_shift": "الوردية الليلية",
-  "select_shift_type": "اختر نوع الوردية"
+  "select_shift_type": "اختر نوع الوردية",
+  "shift_time": "وقت الوردية"
 }

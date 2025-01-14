@@ -558,6 +558,12 @@
   "failed_to_add_schedule": "Failed to add schedule",
   "generate_jordan_schedule": "Generate Jordan Schedule",
   "battery_percentage": "Battery Percentage",
-  "save": "Save" 
+  "save": "Save",
+  "shifts": "Shifts",
+  "shift": "Shift",
+  "working_shifts": "Working Shifts",
+  "morning_shift": "Morning Shift",
+  "night_shift": "Night Shift",
+  "select_shift_type": "Select Shift Type"
 }
 

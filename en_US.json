@@ -564,6 +564,7 @@
   "working_shifts": "Working Shifts",
   "morning_shift": "Morning Shift",
   "night_shift": "Night Shift",
-  "select_shift_type": "Select Shift Type"
+  "select_shift_type": "Select Shift Type",
+  "shift_time": "Shift Time"
 }
 

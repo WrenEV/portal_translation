@@ -565,6 +565,15 @@
   "shift_time": "وقت الوردية",
   "shift": "وردية",
   "support": "للدعم أو لطلب أي ميزة: \u200E+961 81 451 215 أو support@wrenev.com",
-  "tutorials": "إرشادات الاستخدام"
+  "tutorials": "إرشادات الاستخدام",
+   "shift_name": "اسم الوردية",
+  "at_least_one_shift_required": "يجب أن يكون هناك وردية واحدة على الأقل",
+  "shift_name_cannot_be_empty": "اسم الوردية لا يمكن أن يكون فارغًا",
+  "start_end_times_required": "أوقات البدء والنهاية مطلوبة",
+  "end_time_must_be_after_start_time": "يجب أن يكون وقت الانتهاء بعد وقت البدء",
+  "fix_errors_before_submitting": "يرجى إصلاح الأخطاء قبل الإرسال",
+  "shifts_added_successfully": "تمت إضافة الورديات بنجاح!",
+  "failed_to_add_shifts": "فشل في إضافة الورديات",
+  "add_another_shift": "إضافة وردية أخرى"
 }
 

@@ -568,6 +568,15 @@
   "shift_time": "Shift Time",
   "shift": "Shift",
   "support": "For support or any feature requests: +96181451215 or support@wrenev.com",
-   "tutorials": "Tutorials"
+   "tutorials": "Tutorials",
+   "shift_name": "Shift Name",
+  "at_least_one_shift_required": "At least one shift is required",
+  "shift_name_cannot_be_empty": "Shift name cannot be empty",
+  "start_end_times_required": "Start and end times are required",
+  "end_time_must_be_after_start_time": "End time must be after start time",
+  "fix_errors_before_submitting": "Please fix the errors before submitting",
+  "shifts_added_successfully": "Shifts added successfully!",
+  "failed_to_add_shifts": "Failed to add shifts",
+  "add_another_shift": "Add Another Shift"
 }
 

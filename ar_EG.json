@@ -574,6 +574,7 @@
   "fix_errors_before_submitting": "يرجى إصلاح الأخطاء قبل الإرسال",
   "shifts_added_successfully": "تمت إضافة الورديات بنجاح!",
   "failed_to_add_shifts": "فشل في إضافة الورديات",
-  "add_another_shift": "إضافة وردية أخرى"
+  "add_another_shift": "إضافة وردية أخرى",
+    "charge_key_code": "رمز مفتاح الشحن"
 }
 

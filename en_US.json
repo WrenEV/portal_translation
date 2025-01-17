@@ -577,6 +577,7 @@
   "fix_errors_before_submitting": "Please fix the errors before submitting",
   "shifts_added_successfully": "Shifts added successfully!",
   "failed_to_add_shifts": "Failed to add shifts",
-  "add_another_shift": "Add Another Shift"
+  "add_another_shift": "Add Another Shift",
+   "charge_key_code": "Charge Key Code"
 }
 

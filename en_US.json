@@ -578,6 +578,7 @@
   "shifts_added_successfully": "Shifts added successfully!",
   "failed_to_add_shifts": "Failed to add shifts",
   "add_another_shift": "Add Another Shift",
-   "charge_key_code": "Charge Key Code"
+   "charge_key_code": "Charge Key Code",
+    "manage_shifts": "Manage Shifts"
 }
 

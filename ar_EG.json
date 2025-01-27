@@ -576,6 +576,12 @@
   "failed_to_add_shifts": "فشل في إضافة الورديات",
   "add_another_shift": "إضافة وردية أخرى",
   "charge_key_code": "رمز مفتاح الشحن",
-  "manage_shifts": "إدارة المناوبات"
+  "manage_shifts": "إدارة المناوبات",
+   "emergency": "طوارئ",
+  "priced": "السعر",
+  "key_used_offline": "يمكن استخدام مفتاح الشحن دون اتصال",
+  "key_not_used_offline": "لا يمكن استخدام مفتاح الشحن دون اتصال",
+  "session_based_price": "سيتم احتساب الجلسة بناءً على سعر الشاحن",
+  "session_not_priced": "لن يتم احتساب الجلسة بالسعر"
 }
 

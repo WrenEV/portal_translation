@@ -579,6 +579,12 @@
   "failed_to_add_shifts": "Failed to add shifts",
   "add_another_shift": "Add Another Shift",
    "charge_key_code": "Charge Key Code",
-    "manage_shifts": "Manage Shifts"
+    "manage_shifts": "Manage Shifts",
+  "emergency": "Emergency",
+  "priced": "Priced",
+  "key_used_offline": "The charge key can be used offline",
+  "key_not_used_offline": "The charge key cannot be used offline",
+  "session_based_price": "The session will be based on charger price",
+  "session_not_priced": "The session will not be priced"
 }
 

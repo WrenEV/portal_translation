@@ -587,6 +587,7 @@
   "session_based_price": "The session will be based on charger price",
   "session_not_priced": "The session will not be priced",
   "shifts_feature": "Shifts feature is now available! Manage work shifts efficiently.",
-  "view_feature": "View Feature"
+  "view_feature": "View Feature",
+  "new_feature": "New Feature"
 }
 

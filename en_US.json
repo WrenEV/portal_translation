@@ -585,6 +585,8 @@
   "key_used_offline": "The charge key can be used offline",
   "key_not_used_offline": "The charge key cannot be used offline",
   "session_based_price": "The session will be based on charger price",
-  "session_not_priced": "The session will not be priced"
+  "session_not_priced": "The session will not be priced",
+  "shifts_feature": "Shifts feature is now available! Manage work shifts efficiently.",
+  "view_feature": "View Feature"
 }
 

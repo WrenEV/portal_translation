@@ -589,6 +589,10 @@
   "shifts_feature": "Shifts feature is now available! Manage work shifts efficiently.",
   "view_feature": "View Feature",
   "new_feature": "New Feature!",
-  "billing": "Billing"
+  "billing": "Billing",
+  "add_optional_field": "Add Optional Field",
+  "verify_phone": "Verify Phone",
+  "skip": "Skip",
+  "wrong_phone": "Wrong Phone?"
 }
 

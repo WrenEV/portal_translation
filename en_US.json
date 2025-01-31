@@ -602,6 +602,7 @@
   "cvv": "CVV",
   "cardholder_name": "Cardholder Name",
   "card_added_success": "Card added successfully!",
-  "card_add_failed": "Failed to add card. Please try again."
+  "card_add_failed": "Failed to add card. Please try again.",
+  "book_a_demo": "Book a Demo"
 }
 

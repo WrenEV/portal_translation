@@ -590,7 +590,14 @@
   "add_optional_field": "إضافة حقل اختياري",
   "verify_phone": "تحقق من رقم الهاتف",
   "skip": "تخطي",
-  "wrong_phone": "رقم الهاتف غير صحيح؟"
+  "wrong_phone": "رقم الهاتف غير صحيح؟",
+  "add_card_info": "إضافة معلومات البطاقة",
+  "card_number": "رقم البطاقة",
+  "card_number_hint": "0000 0000 0000 0000",
+  "expiry_date": "تاريخ الانتهاء",
+  "expiry_date_hint": "شهر/سنة",
+  "cvv": "رمز الأمان",
+  "cardholder_name": "اسم حامل البطاقة"
 
 }
 

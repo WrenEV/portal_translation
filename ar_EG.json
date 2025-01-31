@@ -597,7 +597,9 @@
   "expiry_date": "تاريخ الانتهاء",
   "expiry_date_hint": "شهر/سنة",
   "cvv": "رمز الأمان",
-  "cardholder_name": "اسم حامل البطاقة"
+  "cardholder_name": "اسم حامل البطاقة",
+  "card_added_success": "تمت إضافة البطاقة بنجاح!",
+  "card_add_failed": "فشل في إضافة البطاقة. يرجى المحاولة مرة أخرى."
 
 }
 

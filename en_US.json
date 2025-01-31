@@ -593,6 +593,13 @@
   "add_optional_field": "Add Optional Field",
   "verify_phone": "Verify Phone",
   "skip": "Skip",
-  "wrong_phone": "Wrong Phone?"
+  "wrong_phone": "Wrong Phone?",
+   "add_card_info": "Add Card Information",
+  "card_number": "Card Number",
+  "card_number_hint": "0000 0000 0000 0000",
+  "expiry_date": "Expiry Date",
+  "expiry_date_hint": "MM/YY",
+  "cvv": "CVV",
+  "cardholder_name": "Cardholder Name"
 }
 

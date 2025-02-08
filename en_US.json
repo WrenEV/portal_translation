@@ -603,6 +603,28 @@
   "cardholder_name": "Cardholder Name",
   "card_added_success": "Card added successfully!",
   "card_add_failed": "Failed to add card. Please try again.",
-  "book_a_demo": "Book a Demo"
+  "book_a_demo": "Book a Demo",
+  "billing_overview": "Billing Overview",
+  "billing_breakdown": "Billing Breakdown",
+  "payment_method": "Payment Method",
+  "subscription_plan": "Subscription Plan",
+  "billing_period": "Billing Period",
+  "days_remaining": "{days} days remaining",
+  "chargers_count": "Chargers Count:",
+  "connectors_count": "Connectors Count:",
+  "cost_per_charger": "Cost per Charger:",
+  "cost_per_connector": "Cost per Connector:",
+  "total_amount": "Total Amount:",
+  "no_billing_details": "No billing details available.",
+  "error_message": "Error: {error}",
+  "delete_payment_card": "Delete Payment Card",
+  "delete_card_confirmation": "Are you sure you want to delete this payment card?",
+  "payment_card_deleted": "Payment card deleted successfully",
+  "payment_card_delete_failed": "Failed to delete payment card",
+  "card_brand": "Card Brand:",
+  "customer_name": "Customer Name:",
+  "no_card_added": "No Card Added",
+  "add_payment_method": "Add Payment Method"
+  
 }
 

@@ -609,7 +609,7 @@
   "payment_method": "Payment Method",
   "subscription_plan": "Subscription Plan",
   "billing_period": "Billing Period",
-  "days_remaining": "{days} days remaining",
+  "days_remaining": "days remaining",
   "chargers_count": "Chargers Count:",
   "connectors_count": "Connectors Count:",
   "cost_per_charger": "Cost per Charger:",

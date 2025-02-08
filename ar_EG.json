@@ -620,6 +620,19 @@
   "card_brand": "نوع البطاقة:",
   "customer_name": "اسم العميل:",
   "no_card_added": "لم تتم إضافة بطاقة",
-  "add_payment_method": "إضافة طريقة دفع"
+  "add_payment_method": "إضافة طريقة دفع",
+   "add_card_info": "إضافة معلومات البطاقة",
+  "card_number": "رقم البطاقة",
+  "card_number_hint": "0000 0000 0000 0000",
+  "expiry_date": "تاريخ الانتهاء",
+  "expiry_date_hint": "MM/YY",
+  "cvv": "رمز الأمان",
+  "cardholder_name": "اسم حامل البطاقة",
+  "invalid_card_number": "رقم البطاقة غير صالح",
+  "invalid_expiry_date": "تاريخ انتهاء غير صالح",
+  "invalid_cvv": "رمز أمان غير صالح",
+  "invalid_cardholder_name": "اسم حامل البطاقة غير صالح",
+  "card_added_success": "تمت إضافة البطاقة بنجاح",
+  "card_add_failed": "فشل في إضافة البطاقة"
 }
 

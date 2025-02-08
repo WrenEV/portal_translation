@@ -606,7 +606,7 @@
   "payment_method": "طريقة الدفع",
   "subscription_plan": "خطة الاشتراك",
   "billing_period": "فترة الفوترة",
-  "days_remaining": "متبقي {days} أيام",
+  "days_remaining": "متبقي أيام",
   "chargers_count": "عدد أجهزة الشحن:",
   "connectors_count": "عدد الموصلات:",
   "cost_per_charger": "تكلفة جهاز الشحن:",

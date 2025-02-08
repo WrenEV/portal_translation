@@ -623,7 +623,20 @@
   "card_brand": "Card Brand:",
   "customer_name": "Customer Name:",
   "no_card_added": "No Card Added",
-  "add_payment_method": "Add Payment Method"
+  "add_payment_method": "Add Payment Method",
+  "add_card_info": "Add Card Information",
+  "card_number": "Card Number",
+  "card_number_hint": "0000 0000 0000 0000",
+  "expiry_date": "Expiry Date",
+  "expiry_date_hint": "MM/YY",
+  "cvv": "CVV",
+  "cardholder_name": "Cardholder Name",
+  "invalid_card_number": "Invalid card number",
+  "invalid_expiry_date": "Invalid expiry date",
+  "invalid_cvv": "Invalid CVV",
+  "invalid_cardholder_name": "Invalid cardholder name",
+  "card_added_success": "Card added successfully",
+  "card_add_failed": "Failed to add card"
   
 }
 

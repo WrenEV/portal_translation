@@ -600,6 +600,26 @@
   "cardholder_name": "اسم حامل البطاقة",
   "card_added_success": "تمت إضافة البطاقة بنجاح!",
   "card_add_failed": "فشل في إضافة البطاقة. يرجى المحاولة مرة أخرى.",
-  "book_a_demo": "احجز عرضًا توضيحيًا"
+  "book_a_demo": "احجز عرضًا توضيحيًا",
+   "billing_overview": "نظرة عامة على الفوترة",
+  "billing_breakdown": "تفاصيل الفوترة",
+  "payment_method": "طريقة الدفع",
+  "subscription_plan": "خطة الاشتراك",
+  "billing_period": "فترة الفوترة",
+  "days_remaining": "متبقي {days} أيام",
+  "chargers_count": "عدد أجهزة الشحن:",
+  "connectors_count": "عدد الموصلات:",
+  "cost_per_charger": "تكلفة جهاز الشحن:",
+  "cost_per_connector": "تكلفة الموصل:",
+  "total_amount": "المبلغ الإجمالي:",
+  "no_billing_details": "لا توجد تفاصيل فوترة متاحة.",
+  "delete_payment_card": "حذف بطاقة الدفع",
+  "delete_card_confirmation": "هل أنت متأكد أنك تريد حذف بطاقة الدفع هذه؟",
+  "payment_card_deleted": "تم حذف بطاقة الدفع بنجاح",
+  "payment_card_delete_failed": "فشل حذف بطاقة الدفع",
+  "card_brand": "نوع البطاقة:",
+  "customer_name": "اسم العميل:",
+  "no_card_added": "لم تتم إضافة بطاقة",
+  "add_payment_method": "إضافة طريقة دفع"
 }
 

@@ -634,8 +634,10 @@
   "invalid_cardholder_name": "اسم حامل البطاقة غير صالح",
   "card_added_success": "تمت إضافة البطاقة بنجاح",
   "card_add_failed": "فشل في إضافة البطاقة",
-   "billing_announcement_title": "بدء الفوترة في 15 فبراير!",
-  "billing_announcement_description": "ستبدأ الفوترة في 15 فبراير. لديك فترة سماح مدتها شهر واحد لإكمال الدفع. في حال عدم السداد، سيتم تقييد الوصول إلى الميزات.",
+ "billing_announcement_title": "بدء الفوترة في 15 فبراير!",
+  "billing_announcement_description_line1": "ستبدأ الفوترة في 15 فبراير.",
+  "billing_announcement_description_line2": "لديك فترة سماح مدتها شهر واحد لإكمال الدفع.",
+  "billing_announcement_description_line3": "في حال عدم السداد، سيتم تقييد الوصول إلى الميزات.",
   "billing_announcement_button": "عرض التفاصيل"
 }
 

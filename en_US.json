@@ -637,8 +637,10 @@
   "invalid_cardholder_name": "Invalid cardholder name",
   "card_added_success": "Card added successfully",
   "card_add_failed": "Failed to add card",
-  "billing_announcement_title": "Billing Starts on February 15!",
-  "billing_announcement_description": "Billing will commence on February 15. You have a one-month grace period to complete your payment. If not paid, access to features will be restricted.",
+ "billing_announcement_title": "Billing Starts on February 15!",
+  "billing_announcement_description_line1": "Billing will commence on February 15.",
+  "billing_announcement_description_line2": "You have a one-month grace period to complete your payment.",
+  "billing_announcement_description_line3": "If not paid, access to features will be restricted.",
   "billing_announcement_button": "See Details"
   
 }

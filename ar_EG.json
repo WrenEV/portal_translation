@@ -639,6 +639,17 @@
   "billing_announcement_description_line2": "لديك فترة سماح مدتها شهر واحد لإكمال الدفع.",
   "billing_announcement_description_line3": "في حال عدم السداد، سيتم تقييد الوصول إلى الميزات.",
   "billing_announcement_description_line4": "لعرض التفاصيل، اختر مجموعة وتحقق من الفوترة من إعدادات المجموعة.",
-  "billing_announcement_button": "عرض التفاصيل"
+  "billing_announcement_button": "عرض التفاصيل",
+  "highlight": "أبرز القصص",
+  "delete_highlight": "حذف القصة",
+  "are_you_sure_you_want_to_delete_this_highlight": "هل أنت متأكد من أنك تريد حذف هذه القصة؟",
+  "something_went_wrong": "حدث خطأ ما",
+  "highlight_deleted_successfully": "تم حذف القصة بنجاح",
+  "from_date_cannot_be_after_to_date": "لا يمكن أن يكون تاريخ البداية بعد تاريخ النهاية",
+  "highlight_updated_successfully": "تم تحديث القصة بنجاح",
+  "public_highlights": "القصص العامة",
+  "private_highlights": "القصص الخاصة",
+  "archived_highlights": "القصص المؤرشفة",
+  "press_to_add_media": "اضغط لإضافة وسائط"
 }
 

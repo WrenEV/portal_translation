@@ -642,7 +642,17 @@
   "billing_announcement_description_line2": "You have a one-month grace period to complete your payment.",
   "billing_announcement_description_line3": "If not paid, access to features will be restricted.",
   "billing_announcement_description_line4": "To see the details, choose a group and check the billing from group settings.",
-  "billing_announcement_button": "See Details"
-  
+  "billing_announcement_button": "See Details",
+  "highlight": "Highlight",
+  "delete_highlight": "Delete Highlight",
+  "are_you_sure_you_want_to_delete_this_highlight": "Are you sure you want to delete this highlight?",
+  "something_went_wrong": "Something went wrong",
+  "highlight_deleted_successfully": "Highlight deleted successfully",
+  "from_date_cannot_be_after_to_date": "From date cannot be after to date",
+  "highlight_updated_successfully": "Highlight updated successfully",
+  "public_highlights": "Public Highlights",
+  "private_highlights": "Private Highlights",
+  "archived_highlights": "Archived Highlights",
+  "press_to_add_media": "Press to add media"
 }
 

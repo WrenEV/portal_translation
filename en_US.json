@@ -654,6 +654,9 @@
   "private_highlights": "Private Highlights",
   "archived_highlights": "Archived Highlights",
   "press_to_add_media": "Press to add media",
-  "archive": "Archive"
+  "archive": "Archive",
+  "no_highlights_yet_add_your_first_highlight": "No highlights yet. Add your first highlight!",
+  "history": "History",
+  "please_select_media": "Please select media"
 }
 

@@ -651,6 +651,10 @@
   "private_highlights": "القصص الخاصة",
   "archived_highlights": "القصص المؤرشفة",
   "press_to_add_media": "اضغط لإضافة وسائط",
-  "archive": "أرشيف"
+  "archive": "أرشيف",
+  "no_highlights_yet_add_your_first_highlight": "لا توجد قصص بعد. أضف أول قصة لك!",
+  "history": "السجل",
+  "please_select_media": "يرجى تحديد وسائط"
+
 }
 

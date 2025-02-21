@@ -654,7 +654,12 @@
   "archive": "أرشيف",
   "no_highlights_yet_add_your_first_highlight": "لا توجد قصص بعد. أضف أول قصة لك!",
   "history": "السجل",
-  "please_select_media": "يرجى تحديد وسائط"
+  "please_select_media": "يرجى تحديد وسائط",
+   "plan": "Plan",
+  "price_per_charge_point": "Price per Charge Point",
+  "price_per_connector": "Price per Connector",
+  "total_cost": "Total Cost",
+  "billing_history": "Billing History"
 
 }
 

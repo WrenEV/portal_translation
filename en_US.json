@@ -657,6 +657,12 @@
   "archive": "Archive",
   "no_highlights_yet_add_your_first_highlight": "No highlights yet. Add your first highlight!",
   "history": "History",
-  "please_select_media": "Please select media"
+  "please_select_media": "Please select media",
+  "plan": "الخطة",
+  "price_per_charge_point": "السعر لكل نقطة شحن",
+  "price_per_connector": "السعر لكل موصل",
+  "total_cost": "التكلفة الإجمالية",
+  "billing_history": "سجل الفواتير"
+  
 }
 

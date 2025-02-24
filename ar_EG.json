@@ -659,7 +659,6 @@
   "price_per_charge_point": "السعر لكل نقطة شحن",
   "price_per_connector": "السعر لكل موصل",
   "total_cost": "التكلفة الإجمالية",
-  "billing_history": "سجل الفواتير"
-
+  "billing_history": "سجل الفواتير",
+  "logs": "سجلات"
 }
-

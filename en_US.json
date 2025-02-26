@@ -663,5 +663,7 @@
   "price_per_connector": "Price per Connector",
   "total_cost": "Total Cost",
   "billing_history": "Billing History",
-  "logs": "Logs"
+  "logs": "Logs",
+  "added_highlights_will_be_seen_by_customers_from_app": "Added highlights will be seen by customers from the app."
+
 }

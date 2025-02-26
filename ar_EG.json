@@ -660,5 +660,8 @@
   "price_per_connector": "السعر لكل موصل",
   "total_cost": "التكلفة الإجمالية",
   "billing_history": "سجل الفواتير",
-  "logs": "سجلات"
+  "logs": "سجلات",
+  "added_highlights_will_be_seen_by_customers_from_app": "سيتمكن العملاء من رؤية الميزات المضافة من التطبيق."
+
+  
 }

@@ -666,7 +666,7 @@
   "logs": "Logs",
   "added_highlights_will_be_seen_by_customers_from_app": "Added highlights will be seen by customers from the app.",
    "overdue_payment_warning_title": "Billing Overdue – Action Required",
-  "overdue_payment_warning": "Your payment is overdue by {0} days. Please settle your bill to avoid service interruptions.",
+  "overdue_payment_warning": "Your payment is overdue. Please settle your bill to avoid service interruptions.",
   "overdue_payment_limited_access": "If payment is not made within the next few days, some features will be restricted."
 
 

@@ -664,7 +664,6 @@
   "added_highlights_will_be_seen_by_customers_from_app": "سيتمكن العملاء من رؤية الميزات المضافة من التطبيق.",
    "overdue_payment_warning_title": "تأخير في الدفع - مطلوب إجراء",
   "overdue_payment_warning": "فات موعد سداد الفاتورة. يرجى السداد لتجنب انقطاع الخدمة.",
-  "overdue_payment_limited_access": "إذا لم يتم الدفع خلال الأيام القادمة، سيتم تقييد بعض الميزات."
-
-  
+  "overdue_payment_limited_access": "إذا لم يتم الدفع خلال الأيام القادمة، سيتم تقييد بعض الميزات.",
+  "you_are_in":"نت في" 
 }

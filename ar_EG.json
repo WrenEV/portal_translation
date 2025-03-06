@@ -680,5 +680,7 @@
   "reserved": "محجوز",
   "suspendedEV": "معلق (المركبة)",
   "suspendedEVSE": "معلق (المحطة)",
-  "hour": "ساعة"
+  "hour": "ساعة",
+  "users": "المستخدمين",
+  "use_applied_filters": "استخدام الفلاتر المطبقة"
 }

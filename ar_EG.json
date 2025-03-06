@@ -665,5 +665,8 @@
    "overdue_payment_warning_title": "تأخير في الدفع - مطلوب إجراء",
   "overdue_payment_warning": "فات موعد سداد الفاتورة. يرجى السداد لتجنب انقطاع الخدمة.",
   "overdue_payment_limited_access": "إذا لم يتم الدفع خلال الأيام القادمة، سيتم تقييد بعض الميزات.",
-  "you_are_in":"نت في" 
+  "you_are_in":"نت في",
+  "filter_by_date_and_time": "تصفية حسب التاريخ والوقت",
+  "start_time_must_be_before_end_time": "يجب أن يكون وقت البدء قبل وقت الانتهاء", 
+  "save": "حفظ"
 }

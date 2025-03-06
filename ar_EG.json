@@ -668,5 +668,6 @@
   "you_are_in":"نت في",
   "filter_by_date_and_time": "تصفية حسب التاريخ والوقت",
   "start_time_must_be_before_end_time": "يجب أن يكون وقت البدء قبل وقت الانتهاء", 
-  "save": "حفظ"
+  "save": "حفظ",
+  "session": "جلسة"
 }

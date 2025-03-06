@@ -683,5 +683,7 @@
   "reserved": "Reserved",
   "suspendedEV": "SuspendedEV",
   "suspendedEVSE": "SuspendedEVSE",
-  "hour": "Hour"
+  "hour": "Hour",
+  "users": "Users",
+  "use_applied_filters": "Use applied filters"
 }

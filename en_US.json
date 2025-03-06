@@ -668,6 +668,9 @@
    "overdue_payment_warning_title": "Billing Overdue – Action Required",
   "overdue_payment_warning": "Your payment is overdue. Please settle your bill to avoid service interruptions.",
   "overdue_payment_limited_access": "If payment is not made within the next few days, some features will be restricted.",
-  "you_are_in":"You are in"
+  "you_are_in":"You are in",
+  "filter_by_date_and_time": "Filter by Date and Time",
+  "start_time_must_be_before_end_time": "Start time must be before end time",
+  "save": "Save"
 
 }

@@ -669,5 +669,15 @@
   "filter_by_date_and_time": "تصفية حسب التاريخ والوقت",
   "start_time_must_be_before_end_time": "يجب أن يكون وقت البدء قبل وقت الانتهاء", 
   "save": "حفظ",
-  "session": "جلسة"
+  "session": "جلسة",
+  "available": "متاح",
+  "unavailable": "غير متاح",
+  "charging": "قيد الشحن",
+  "faulted": "معطل",
+  "finishing": "إنهاء",
+  "preparing": "جارٍ التحضير",
+  "reserved": "محجوز",
+  "suspendedEV": "معلق (المركبة)",
+  "suspendedEVSE": "معلق (المحطة)",
+  "hour": "ساعة"
 }

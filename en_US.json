@@ -685,5 +685,6 @@
   "suspendedEVSE": "SuspendedEVSE",
   "hour": "Hour",
   "users": "Users",
-  "use_applied_filters": "Use applied filters"
+  "use_applied_filters": "Use applied filters",
+  "add_new_site": "Add New Site"
 }

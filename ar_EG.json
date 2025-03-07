@@ -682,5 +682,6 @@
   "suspendedEVSE": "معلق (المحطة)",
   "hour": "ساعة",
   "users": "المستخدمين",
-  "use_applied_filters": "استخدام الفلاتر المطبقة"
+  "use_applied_filters": "استخدام الفلاتر المطبقة",
+  "add_new_site": "إضافة موقع جديد"
 }

@@ -683,5 +683,13 @@
   "hour": "ساعة",
   "users": "المستخدمين",
   "use_applied_filters": "استخدام الفلاتر المطبقة",
-  "add_new_site": "إضافة موقع جديد"
+  "add_new_site": "إضافة موقع جديد",
+  "start_session_on_behalf_of_user": "بدء الجلسة نيابة عن المستخدم",
+  "back": "العودة",
+  "please_enter_amount": "يرجى إدخال المبلغ",
+  "verify_user": "تحقق من المستخدم",
+  "fixed_amount": "مبلغ ثابت",
+  "charge_till_full": "شحن حتى الكامل",
+  "charging_amount": "كمية الشحن",
+  "user": "المستخدم"
 }

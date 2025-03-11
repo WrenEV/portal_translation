@@ -692,11 +692,4 @@
   "charge_till_full": "شحن حتى الكامل",
   "charging_amount": "كمية الشحن",
   "user": "المستخدم",
-  "start_session_on_behalf_of_user": "Start session on behalf of user",
-  "back": "Back", 
-  "please_enter_amount": "Please enter amount",
-  "verify_user": "Verify User",
-  "fixed_amount": "Fixed Amount",
-  "charge_till_full": "Charge Till Full",
-  "user": "User"
 }

@@ -686,9 +686,9 @@
   "add_new_site": "إضافة موقع جديد",
   "start_session_on_behalf_of_user": "بدء الجلسة نيابة عن المستخدم",
   "back": "العودة",
-  "please_enter_amount": "يرجى إدخال المبلغ",
+  "please_enter_amount": "يرجى إدخال الكمية",
   "verify_user": "تحقق من المستخدم",
-  "fixed_amount": "مبلغ ثابت",
+  "fixed_amount": "كمية ثابتة",
   "charge_till_full": "شحن حتى الكامل",
   "charging_amount": "كمية الشحن",
   "user": "المستخدم"

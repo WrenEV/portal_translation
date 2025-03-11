@@ -691,6 +691,7 @@
   "back": "Back", 
   "please_enter_amount": "Please enter amount",
   "verify_user": "Verify User",
+  "charging_amount": "Charging Amount",
   "fixed_amount": "Fixed Amount",
   "charge_till_full": "Charge Till Full",
   "user": "User"

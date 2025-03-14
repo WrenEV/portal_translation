@@ -691,5 +691,8 @@
   "fixed_amount": "كمية ثابتة",
   "charge_till_full": "شحن حتى الكامل",
   "charging_amount": "كمية الشحن",
-  "user": "المستخدم"
+  "user": "المستخدم",
+  "power_over_time": "الطاقة مع مرور الوقت",
+  "power": "الطاقة",
+  "time": "الوقت"
 }

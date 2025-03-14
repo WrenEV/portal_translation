@@ -694,5 +694,8 @@
   "charging_amount": "Charging Amount",
   "fixed_amount": "Fixed Amount",
   "charge_till_full": "Charge Till Full",
-  "user": "User"
+  "user": "User",
+  "power_over_time": "Power Over Time",
+  "power": "Power",
+  "time": "Time"
 }

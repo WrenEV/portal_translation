@@ -697,5 +697,6 @@
   "user": "User",
   "power_over_time": "Power Over Time",
   "power": "Power",
-  "time": "Time"
+  "time": "Time",
+  "brand": "Brand"
 }

@@ -699,5 +699,10 @@
   "power": "Power",
   "time": "Time",
   "brand": "Brand",
-  "users_ev": "User's EV"
+  "users_ev": "User's EV",
+  "add_media": "Add Media",
+  "highlight_title": "Highlight Title",
+  "highlight_thumbnail": "Highlight Thumbnail",
+  "please_enter_title": "Please Enter Title",
+  "please_select_thumbnail": "Please Select Thumbnail"
 }

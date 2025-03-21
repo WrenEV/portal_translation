@@ -696,5 +696,10 @@
   "power": "الطاقة",
   "time": "الوقت",
   "brand": "العلامة التجارية",
-  "users_ev": "المستخدمين (EV)"
+  "users_ev": "المستخدمين (EV)",
+  "add_media": "إضافة وسائط",
+  "highlight_title": "عنوان القصة",
+  "highlight_thumbnail": "صورة مصغرة",
+  "please_enter_title": "يرجى إدخال عنوان",
+  "please_select_thumbnail": "يرجى تحديد صورة مصغرة"
 }

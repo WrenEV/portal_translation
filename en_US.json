@@ -705,5 +705,6 @@
   "highlight_thumbnail": "Highlight Thumbnail",
   "please_enter_title": "Please Enter Title",
   "please_select_thumbnail": "Please Select Thumbnail",
-  "this_action_will_permanently_delete_your_highlight": "This action will permanently delete your highlight"
+  "this_action_will_permanently_delete_your_highlight": "This action will permanently delete your highlight",
+  "date": "Date"
 }

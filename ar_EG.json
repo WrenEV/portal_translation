@@ -703,6 +703,8 @@
   "please_enter_title": "يرجى إدخال عنوان",
   "please_select_thumbnail": "يرجى تحديد صورة مصغرة",
   "this_action_will_permanently_delete_your_highlight": "سيؤدي هذا الإجراء إلى حذف قصتك بشكل دائم.",
-   "date": "التاريخ",
-  "phone_number_is_required": "رقم الهاتف مطلوب"
+  "date": "التاريخ",
+  "phone_number_is_required": "رقم الهاتف مطلوب",
+  "delete_media": "حذف الوسائط",
+  "highlight_added_successfully": "تمت إضافة القصة بنجاح"
 }

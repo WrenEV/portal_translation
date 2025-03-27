@@ -703,5 +703,6 @@
   "please_enter_title": "يرجى إدخال عنوان",
   "please_select_thumbnail": "يرجى تحديد صورة مصغرة",
   "this_action_will_permanently_delete_your_highlight": "سيؤدي هذا الإجراء إلى حذف قصتك بشكل دائم.",
-   "date": "التاريخ"
+   "date": "التاريخ",
+  "phone_number_is_required": "رقم الهاتف مطلوب"
 }

@@ -710,5 +710,6 @@
   "phone_number_is_required": "Phone number is required",
   "delete_media": "Delete Media",
   "highlight_added_successfully": "Highlight added successfully",
-  "couldnt_update_highlight_something_went_wrong": "Couldn't update highlight, something went wrong"
+  "couldnt_update_highlight_something_went_wrong": "Couldn't update highlight, something went wrong",
+  "select_date": "Select Date"
 }

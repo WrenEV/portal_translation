@@ -708,5 +708,7 @@
   "delete_media": "حذف الوسائط",
   "highlight_added_successfully": "تمت إضافة القصة بنجاح",
   "couldnt_update_highlight_something_went_wrong": "تعذر تحديث القصة، حدث خطأ ما",
-  "select_date": "اختر التاريخ"
+  "select_date": "اختر التاريخ",
+  "provide_an_indentifier": "أدخل معرفًا",
+  "reset_phone_instructions": "أدخل رقم هاتفك وسنرسل لك تعليمات إعادة تعيين كلمة المرور"
 }

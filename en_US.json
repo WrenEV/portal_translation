@@ -711,5 +711,7 @@
   "delete_media": "Delete Media",
   "highlight_added_successfully": "Highlight added successfully",
   "couldnt_update_highlight_something_went_wrong": "Couldn't update highlight, something went wrong",
-  "select_date": "Select Date"
+  "select_date": "Select Date",
+  "provide_an_indentifier": "Provide an identifier",
+  "reset_phone_instructions": "Enter your phone number address and we’ll send you password reset instructions."
 }

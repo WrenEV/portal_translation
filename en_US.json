@@ -713,5 +713,6 @@
   "couldnt_update_highlight_something_went_wrong": "Couldn't update highlight, something went wrong",
   "select_date": "Select Date",
   "provide_an_indentifier": "Provide an identifier",
-  "reset_phone_instructions": "Enter your phone number address and we’ll send you password reset instructions."
+  "reset_phone_instructions": "Enter your phone number address and we’ll send you password reset instructions.",
+  "to_date_cannot_be_before_today": "To date cannot be before today"
 }

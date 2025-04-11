@@ -710,5 +710,6 @@
   "couldnt_update_highlight_something_went_wrong": "تعذر تحديث القصة، حدث خطأ ما",
   "select_date": "اختر التاريخ",
   "provide_an_indentifier": "أدخل معرفًا",
-  "reset_phone_instructions": "أدخل رقم هاتفك وسنرسل لك تعليمات إعادة تعيين كلمة المرور"
+  "reset_phone_instructions": "أدخل رقم هاتفك وسنرسل لك تعليمات إعادة تعيين كلمة المرور",
+  "to_date_cannot_be_before_today": "لا يمكن أن يكون تاريخ الانتهاء قبل اليوم"
 }

@@ -711,5 +711,8 @@
   "select_date": "اختر التاريخ",
   "provide_an_indentifier": "أدخل معرفًا",
   "reset_phone_instructions": "أدخل رقم هاتفك وسنرسل لك تعليمات إعادة تعيين كلمة المرور",
-  "to_date_cannot_be_before_today": "لا يمكن أن يكون تاريخ الانتهاء قبل اليوم"
+  "to_date_cannot_be_before_today": "لا يمكن أن يكون تاريخ الانتهاء قبل اليوم",
+  "payment_overdue_title": "الدفعة مستحقة",
+  "payment_overdue_message": "تم تعليق الوصول إلى لوحة التحكم بسبب تأخر في الدفع.",
+  "payment_overdue_resolution": "يرجى التواصل مع الدعم لحل هذه المشكلة."
 }

@@ -714,5 +714,8 @@
   "select_date": "Select Date",
   "provide_an_indentifier": "Provide an identifier",
   "reset_phone_instructions": "Enter your phone number address and we’ll send you password reset instructions.",
-  "to_date_cannot_be_before_today": "To date cannot be before today"
+  "to_date_cannot_be_before_today": "To date cannot be before today",
+  "payment_overdue_title": "Payment Overdue",
+  "payment_overdue_message": "Your dashboard access has been suspended due to an overdue payment.",
+  "payment_overdue_resolution": "Please contact support to resolve this issue."
 }

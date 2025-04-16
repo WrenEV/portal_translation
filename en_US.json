@@ -718,6 +718,8 @@
   "payment_overdue_title": "Payment Overdue",
   "payment_overdue_message": "Your dashboard access has been suspended due to an overdue payment.",
   "payment_overdue_resolution": "Please contact support to resolve this issue +96181451215.",
-   "group_prepaid_charge_keys": "Group Prepaid Charge Keys"
+  "group_prepaid_charge_keys": "Group Prepaid Charge Keys",
+  "this_email_is_already_in_use_please_sign_in_or_try_creating_an_account_with_a_different_email_address": "This email is already in use. Please sign in or try creating an account with a different email address.",
+  "this_phone_is_already_in_use_please_sign_in_or_try_creating_an_account_with_a_different_phone_number": "This phone is already in use. Please sign in or try creating an account with a different phone number."
  
 }

@@ -670,7 +670,7 @@
   "start_time_must_be_before_end_time": "يجب أن يكون وقت البدء قبل وقت الانتهاء", 
   "save": "حفظ",
   "session": "جلسة",
-  "chatbot": "روبوت الدردشة",
+  "chatbot": "(تجريبي) روبوت الدردشة",
   "available": "متاح",
   "unavailable": "غير متاح",
   "charging": "قيد الشحن",

@@ -715,7 +715,7 @@
   "payment_overdue_title": "الدفعة مستحقة",
   "payment_overdue_message": "تم تعليق الوصول إلى لوحة التحكم بسبب تأخر في الدفع.",
   "payment_overdue_resolution": "+96181451215 يرجى التواصل مع الدعم لحل هذه المشكلة.",
-  "group_prepaid_charge_keys": "مفاتيح شحن مسبقة الدفع للمجموعة",
+  "group_prepaid_charge_keys": "مفاتيح شحن للمجموعة",
   "this_email_is_already_in_use_please_sign_in_or_try_creating_an_account_with_a_different_email_address": "هذا البريد الإلكتروني مستخدم بالفعل يرجى تسجيل الدخول أو محاولة إنشاء حساب باستخدام عنوان بريد إلكتروني مختلف.",
   "this_phone_is_already_in_use_please_sign_in_or_try_creating_an_account_with_a_different_phone_number": "رقم الهاتف هذا مستخدم بالفعل يرجى تسجيل الدخول أو محاولة إنشاء حساب برقم هاتف مختلف.",
   "connection_lost": "تم فقد الاتصال",

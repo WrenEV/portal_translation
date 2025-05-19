@@ -722,7 +722,17 @@
   "this_email_is_already_in_use_please_sign_in_or_try_creating_an_account_with_a_different_email_address": "This email is already in use. Please sign in or try creating an account with a different email address.",
   "this_phone_is_already_in_use_please_sign_in_or_try_creating_an_account_with_a_different_phone_number": "This phone is already in use. Please sign in or try creating an account with a different phone number.",
   "connection_lost": "Connection Lost",
-  "please_check_your_internet_connection_and_try_again": "Please check your internet connection and try again."
+  "please_check_your_internet_connection_and_try_again": "Please check your internet connection and try again.",
+  "lounge": "Lounge",
+  "cafe": "Cafe",
+  "wifi": "Wifi",
+  "food_court": "Food Court",
+  "fast_charging": "Fast Charging",
+  "play_area": "Play Area",
+  "shopping": "Shopping",
+  "gym": "Gym",
+  "car_wash": "Car Wash"
+
 
  
 }

@@ -719,6 +719,15 @@
   "this_email_is_already_in_use_please_sign_in_or_try_creating_an_account_with_a_different_email_address": "هذا البريد الإلكتروني مستخدم بالفعل يرجى تسجيل الدخول أو محاولة إنشاء حساب باستخدام عنوان بريد إلكتروني مختلف.",
   "this_phone_is_already_in_use_please_sign_in_or_try_creating_an_account_with_a_different_phone_number": "رقم الهاتف هذا مستخدم بالفعل يرجى تسجيل الدخول أو محاولة إنشاء حساب برقم هاتف مختلف.",
   "connection_lost": "تم فقد الاتصال",
-  "please_check_your_internet_connection_and_try_again": "يرجى التحقق من اتصال الإنترنت والمحاولة مرة أخرى."
+  "please_check_your_internet_connection_and_try_again": "يرجى التحقق من اتصال الإنترنت والمحاولة مرة أخرى.",
+  "lounge": "صالة الانتظار",
+  "cafe": "مقهى",
+  "wifi": "واي فاي",
+  "food_court": "منطقة طعام",
+  "fast_charging": "شحن سريع",
+  "play_area": "منطقة لعب",
+  "shopping": "تسوق",
+  "gym": "نادي رياضي",
+  "car_wash": "غسيل سيارات"
 
 }

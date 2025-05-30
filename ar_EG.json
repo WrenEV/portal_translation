@@ -740,6 +740,6 @@
   "customer_id":"رقم تعريف العميل",
   "customer_email":"بريد العميل الإلكتروني",
   "customer_phone":"رقم هاتف العميل",
-  "customer_location":"موقع العميل"
-
+  "customer_location":"موقع العميل",
+  "vehicles":"مركبة"
 }

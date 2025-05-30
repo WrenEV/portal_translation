@@ -734,5 +734,6 @@
   "no_email_provided": "لم يتم تقديم بريد إلكتروني",
   "no_phone_provided": "لم يتم تقديم رقم هاتف",
   "no_location_provided": "لم يتم تقديم موقع",
-  "not_available": "غير متاح"
+  "not_available": "غير متاح",
+  "name,email_or_phone_number": "الاسم، البريد الإلكتروني أو رقم الهاتف"
 }

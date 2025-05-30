@@ -731,8 +731,11 @@
   "play_area": "Play Area",
   "shopping": "Shopping",
   "gym": "Gym",
-  "car_wash": "Car Wash"
-
-
- 
+  "car_wash": "Car Wash",
+  "no_charge_sessions_found": "No charge sessions found for this user",
+  "no_wallet_information": "No wallet information available",
+  "no_email_provided": "No email provided",
+  "no_phone_provided": "No phone provided",
+  "no_location_provided": "No location provided",
+  "not_available": "N/A" 
 }

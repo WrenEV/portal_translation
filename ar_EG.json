@@ -735,5 +735,11 @@
   "no_phone_provided": "لم يتم تقديم رقم هاتف",
   "no_location_provided": "لم يتم تقديم موقع",
   "not_available": "غير متاح",
-  "name,email_or_phone_number": "الاسم، البريد الإلكتروني أو رقم الهاتف"
+  "name,email_or_phone_number": "الاسم، البريد الإلكتروني أو رقم الهاتف",
+  "customer_support":"دعم العملاء",
+  "customer_id":"رقم تعريف العميل",
+  "customer_email":"بريد العميل الإلكتروني",
+  "customer_phone":"رقم هاتف العميل",
+  "customer_location":"موقع العميل"
+}
 }

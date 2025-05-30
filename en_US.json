@@ -621,7 +621,7 @@
   "payment_card_deleted": "Payment card deleted successfully",
   "payment_card_delete_failed": "Failed to delete payment card",
   "card_brand": "Card Brand:",
-  "customer_name": "Customer Name:",
+  "customer_name": "Customer Name",
   "no_card_added": "No Card Added",
   "add_payment_method": "Add Payment Method",
   "add_card_info": "Add Card Information",

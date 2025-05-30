@@ -738,5 +738,10 @@
   "no_phone_provided": "No phone provided",
   "no_location_provided": "No location provided",
   "not_available": "N/A",
-   "name,email_or_phone_number":"Name, Email or Phone Number"
+  "name,email_or_phone_number":"Name, Email or Phone Number",
+  "customer_support":"Customer Support",
+  "customer_id":"Customer ID",
+  "customer_email":"Customer Email",
+  "customer_phone":"Customer Phone",
+  "customer_location":"Customer Location"
 }

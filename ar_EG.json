@@ -728,6 +728,11 @@
   "play_area": "منطقة لعب",
   "shopping": "تسوق",
   "gym": "نادي رياضي",
-  "car_wash": "غسيل سيارات"
-
+  "car_wash": "غسيل سيارات",
+  "no_charge_sessions_found": "لا توجد جلسات شحن لهذا المستخدم",
+  "no_wallet_information": "لا توجد معلومات محفظة متاحة",
+  "no_email_provided": "لم يتم تقديم بريد إلكتروني",
+  "no_phone_provided": "لم يتم تقديم رقم هاتف",
+  "no_location_provided": "لم يتم تقديم موقع",
+  "not_available": "غير متاح"
 }

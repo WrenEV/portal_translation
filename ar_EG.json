@@ -618,7 +618,7 @@
   "payment_card_deleted": "تم حذف بطاقة الدفع بنجاح",
   "payment_card_delete_failed": "فشل حذف بطاقة الدفع",
   "card_brand": "نوع البطاقة:",
-  "customer_name": "اسم العميل:",
+  "customer_name": "اسم العميل",
   "no_card_added": "لم تتم إضافة بطاقة",
   "add_payment_method": "إضافة طريقة دفع",
    "add_card_info": "إضافة معلومات البطاقة",

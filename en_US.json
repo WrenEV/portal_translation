@@ -69,6 +69,7 @@
   "reason": "Reason ",
   "priority": "Priority",
   "cp_name": "CP Name",
+  "cp_internal_name": "CP Internal Name",
   "number": "Number ",
   "site_name": "Site Name",
   "add_site": "Add Site",

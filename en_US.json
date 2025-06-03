@@ -745,5 +745,8 @@
   "customer_email":"Customer Email",
   "customer_phone":"Customer Phone",
   "customer_location":"Customer Location",
-  "vehicles":"Vehicles"
+  "vehicles":"Vehicles",
+  "current_balance":"Current Balance",
+  "battery":"Battery",
+  "key":"Key"
 }

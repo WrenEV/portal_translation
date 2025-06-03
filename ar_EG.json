@@ -742,5 +742,8 @@
   "customer_email":"بريد العميل الإلكتروني",
   "customer_phone":"رقم هاتف العميل",
   "customer_location":"موقع العميل",
-  "vehicles":"مركبة"
+  "vehicles":"مركبة",
+  "current_balance":"الرصيد الحالي",
+  "battery":"البطارية",
+  "key":"المفتاح"
 }

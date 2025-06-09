@@ -748,5 +748,8 @@
   "vehicles":"Vehicles",
   "current_balance":"Current Balance",
   "battery":"Battery",
-  "key":"Key"
+  "key":"Key",
+  "add_charger_image": "Add Charger Image",
+  "confirm_delete_image": "Confirm Delete Image",
+  "confirm_delete": "Confirm Delete"
 }

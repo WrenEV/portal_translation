@@ -745,5 +745,8 @@
   "vehicles":"مركبة",
   "current_balance":"الرصيد الحالي",
   "battery":"البطارية",
-  "key":"المفتاح"
+  "key":"المفتاح",
+  "add_charger_image": "إضافة صورة الشاحن",
+  "confirm_delete_image": "تأكيد حذف الصورة",
+  "confirm_delete": "تأكيد الحذف"
 }

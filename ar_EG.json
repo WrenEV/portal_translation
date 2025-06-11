@@ -748,5 +748,11 @@
   "key":"المفتاح",
   "add_charger_image": "إضافة صورة الشاحن",
   "confirm_delete_image": "تأكيد حذف الصورة",
-  "confirm_delete": "تأكيد الحذف"
+  "confirm_delete": "تأكيد الحذف",
+  "recent": "الأخيرة",
+  "new_chat": "محادثة جديدة",
+  "chats": "المحادثات",
+  "delete_chat": "حذف المحادثة",
+  "are_you_sure_you_want_to_delete_this_chat_This_action_cannot_be_undone": "هل أنت متأكد من أنك تريد حذف هذه المحادثة؟ لا يمكن الإلغاء هذا الإجراء.",
+  "type_a_message": "اكتب رسالة..."
 }

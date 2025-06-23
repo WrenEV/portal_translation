@@ -757,5 +757,12 @@
   "chats": "Chats",
   "delete_chat": "Delete Chat",
   "are_you_sure_you_want_to_delete_this_chat_This_action_cannot_be_undone": "Are you sure you want to delete this chat? This action cannot be undone.",
-  "type_a_message": "Type a message..."
+  "type_a_message": "Type a message...",
+  "please_check_your_internet_connection_and_try_again": "Please check your internet connection and try again.",
+  "add_adapters": "Add Adapters",
+  "add_another_adapter_pair": "Add Another Adapter Pair",
+  "from_adapter": "From Adapter",
+  "to_adapter": "To Adapter",
+  "remove": "Remove",
+  "select_connector": "Select connector"
 }

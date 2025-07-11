@@ -761,6 +761,7 @@
   "from_adapter": "من المحول",
   "to_adapter": "إلى المحول",
   "remove": "إزالة",
-  "select_connector": "اختر الموصل"
+  "select_connector": "اختر الموصل",
+  "group_type": "نوع المجموعة"
 
 }

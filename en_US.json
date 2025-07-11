@@ -764,5 +764,6 @@
   "from_adapter": "From Adapter",
   "to_adapter": "To Adapter",
   "remove": "Remove",
-  "select_connector": "Select connector"
+  "select_connector": "Select connector",
+  "group_type":"Group Type"
 }

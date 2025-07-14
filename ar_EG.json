@@ -762,6 +762,8 @@
   "to_adapter": "إلى المحول",
   "remove": "إزالة",
   "select_connector": "اختر الموصل",
-  "group_type": "نوع المجموعة"
+  "group_type": "نوع المجموعة",
+  "you_are_not_allowed_to_access_this_page": "لا يُسمح لك بالوصول إلى هذه الصفحة"
+
 
 }

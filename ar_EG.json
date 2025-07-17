@@ -763,7 +763,13 @@
   "remove": "إزالة",
   "select_connector": "اختر الموصل",
   "group_type": "نوع المجموعة",
-  "you_are_not_allowed_to_access_this_page": "لا يُسمح لك بالوصول إلى هذه الصفحة"
+  "you_are_not_allowed_to_access_this_page": "لا يُسمح لك بالوصول إلى هذه الصفحة",
+  "group_top_ups": "تعبئة رصيد المجموعة",
+  "top_up_user": "تعبئة رصيد المستخدم",
+  "top_up_group": "تعبئة رصيد المجموعة",
+  "view_balances": "عرض الأرصدة",
+  "from_group": "من المجموعة",
+  "to_group": "إلى المجموعة"
 
 
 }

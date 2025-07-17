@@ -766,6 +766,12 @@
   "remove": "Remove",
   "select_connector": "Select connector",
   "group_type":"Group Type",
-  "you_are_not_allowed_to_access_this_page": "You are not allowed to access this page"
+  "you_are_not_allowed_to_access_this_page": "You are not allowed to access this page",
+    "group_top_ups": "Group Top Ups",
+  "top_up_user": "Top Up User",
+  "top_up_group": "Top Up Group",
+  "view_balances": "View Balances",
+  "from_group": "From Group",
+  "to_group": "To Group"
 
 }

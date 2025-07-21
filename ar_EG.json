@@ -775,7 +775,9 @@
   "add_another_group":"أضف مجموعة أخرى",
   "select_group":"اختر مجموعة",
   "groups_updated_succesfully":"تم تحديث المجموعات بنجاح",
-  "no_more_groups_available":"لا يوجد مجموعات متاحة"
+  "no_more_groups_available":"لا يوجد مجموعات متاحة",
+    "groups_updated_succesfully":"تم تحديث المجموعات بنجاح",
+  "close":"إغلاق"
 
 
 }

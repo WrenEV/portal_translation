@@ -767,11 +767,15 @@
   "select_connector": "Select connector",
   "group_type":"Group Type",
   "you_are_not_allowed_to_access_this_page": "You are not allowed to access this page",
-    "group_top_ups": "Group Top Ups",
+  "group_top_ups": "Group Top Ups",
   "top_up_user": "Top Up User",
   "top_up_group": "Top Up Group",
   "view_balances": "View Balances",
   "from_group": "From Group",
-  "to_group": "To Group"
+  "to_group": "To Group",
+    "select_groups": "Select groups",
+  "add_another_group":"Add another group",
+  "select_group":"Select group",
+  "groups_updated_succesfully":"Groups updated successfully"
 
 }

@@ -769,7 +769,12 @@
   "top_up_group": "تعبئة رصيد المجموعة",
   "view_balances": "عرض الأرصدة",
   "from_group": "من المجموعة",
-  "to_group": "إلى المجموعة"
+  "to_group": "إلى المجموعة",
+    "no_users_or_groups": "لا يوجد مستخدمين أو مجموعات",
+  "select_groups": "اختر المجموعات",
+  "add_another_group":"أضف مجموعة أخرى",
+  "select_group":"اختر مجموعة",
+  "groups_updated_succesfully":"تم تحديث المجموعات بنجاح"
 
 
 }

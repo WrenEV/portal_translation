@@ -777,6 +777,8 @@
   "add_another_group":"Add another group",
   "select_group":"Select group",
   "groups_updated_succesfully":"Groups updated successfully",
-  "no_more_groups_available":"No more groups available"
+  "no_more_groups_available":"No more groups available",
+  "user_wallet_balances":"User Wallet Balances",
+  "close":"Close"
 
 }

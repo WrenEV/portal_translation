@@ -776,6 +776,7 @@
     "select_groups": "Select groups",
   "add_another_group":"Add another group",
   "select_group":"Select group",
-  "groups_updated_succesfully":"Groups updated successfully"
+  "groups_updated_succesfully":"Groups updated successfully",
+  "no_more_groups_available":"No more groups available"
 
 }

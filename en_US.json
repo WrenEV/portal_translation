@@ -773,12 +773,13 @@
   "view_balances": "View Balances",
   "from_group": "From Group",
   "to_group": "To Group",
-    "select_groups": "Select groups",
+  "select_groups": "Select groups",
   "add_another_group":"Add another group",
   "select_group":"Select group",
   "groups_updated_succesfully":"Groups updated successfully",
   "no_more_groups_available":"No more groups available",
   "user_wallet_balances":"User Wallet Balances",
-  "close":"Close"
-
+  "close":"Close",
+  "member_updated_successfully": "Member updated successfully",
+  "failed_to_update_member": "Failed to update member"
 }

@@ -781,5 +781,6 @@
   "user_wallet_balances":"User Wallet Balances",
   "close":"Close",
   "member_updated_successfully": "Member updated successfully",
-  "failed_to_update_member": "Failed to update member"
+  "failed_to_update_member": "Failed to update member",
+  "max_images_reached": "Max images reached"
 }

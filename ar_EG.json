@@ -780,5 +780,6 @@
   "close":"إغلاق",
   "user_wallet_balances":"رصيد محفظة المستخدم",
   "member_updated_successfully": "تم تحديث العضو بنجاح",
-  "failed_to_update_member": "فشل في تحديث العضو"
+  "failed_to_update_member": "فشل في تحديث العضو",
+  "max_images_reached": "تم الوصول إلى الحد الأقصى للصور"
 }
